@@ -1,11 +1,11 @@
 [{
 	"name": "test",
-	"pattern": "*Flags.cs",
+	"pattern": ".*Flags.cs",
 	"message": "You are changing a file containing flags. Please do not add flags unecessarily."
 },
 {
 	"name": "rule2",
-	"pattern": "*interface*",
+	"pattern": ".*interface.*",
 	"message": "When changing an interface, please change the users of that interface as well, if the changes are not backwards compatible."
 },
 {
