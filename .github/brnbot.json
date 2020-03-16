@@ -10,6 +10,6 @@
 },
 {
 	"name": "Test Plotting.py",
-	"pattern": "plottying.py",
+	"pattern": "plotting.py",
 	"message": "This is a message that is shown when plotting.py is changed."	
 }]
