@@ -7,4 +7,9 @@
 	"name": "rule2",
 	"pattern": "*interface*",
 	"message": "When changing an interface, please change the users of that interface as well, if the changes are not backwards compatible."
+},
+{
+	"name": "Test Plotting.py",
+	"pattern": "plottying.py",
+	"message": "This is a message that is shown when plotting.py is changed."	
 }]
