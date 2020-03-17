@@ -11,5 +11,5 @@
 {
 	"name": "Files changed",
 	"pattern": ".*",
-	"message": "Be sure you wanted to change files. The following files were changes."
+	"message": "Be sure you need to change files. The following files were changes."
 }]
